@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Привет, я neft1k!
 
-<!--
-**neft1k/neft1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Учусь в ИТМО и выкладываю сюда свои лабораторные и учебные проекты.  
+🧩 Все работы собраны в организации [ITMO Labs](https://github.com/neft1k/Itmo).  
+💼 Участвовал в разработке коммерческого проекта [ZnayMed](https://github.com/ZnayMed/znaymed-backend) на Go.  
+Проект реализовывался для клиента — индивидуального предпринимателя. Отвечал за backend-часть и интеграции.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Мои проекты
+- [Itmo](https://github.com/neft1k/Itmo) — Java-лабы  
+- [Computational-Math-2025](https://github.com/neft1k/Computational-Math-2025) — вычислительная математика на Python
+- ZnayMed](https://github.com/ZnayMed/znaymed-backend) на Go
+---
+
+📫 **Контакты:**  
+- Telegram: [@karim2282]
+
